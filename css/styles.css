@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://www.whatspaper.com/wp-content/uploads/2022/01/hd-cottagecore-wallpaper-whatspaper.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    color: rgb(103, 189, 63);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    color: rgb(87, 156, 55);
+}
+h3 {
+color: rgb(64, 185, 255);
+font-style: italic;
+}
+hr {
+    height: 10px;
+}
+p{
+    color: palegoldenrod;
+}
+li {
+    color: yellow;
+}
+a {
+    color: yellowgreen;
+}
